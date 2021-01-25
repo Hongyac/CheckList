@@ -1,4 +1,4 @@
 # CheckList
 Just another repository
 
-This is going to be a CheckList for myself
+This is going to be a CheckList
